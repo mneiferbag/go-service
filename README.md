@@ -10,6 +10,7 @@ Licensed under the MIT License. See file [LICENSE](./LICENSE).
 ## Links
 
 * [golang](https://hub.docker.com/_/golang/) - Official Image - Docker Hub
+* [hegel-go](https://github.com/hegeldev/hegel-go) - Property-based testing for Go, built on Hypothesis
 * [nginx](https://nginx.org/)
 
 ## Tasks
